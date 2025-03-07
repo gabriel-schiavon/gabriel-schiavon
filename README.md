@@ -28,7 +28,7 @@ Estudo para me tornar um desenvolvedor full stack e criar soluções inovadoras.
 ### Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-schiavon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel_schiavon@outlook.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriel_schiavon@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ga_schia)
   
 
